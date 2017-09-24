@@ -13,6 +13,7 @@
 
     <modules>
         <module>eureka-server</module>
+        <module>compute-service</module>
     </modules>
 
     <groupId>spring.cloud.practice</groupId>
